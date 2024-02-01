@@ -44,9 +44,7 @@ function Services(){
                         </svg>  
                     </span>
                     <h2 className="mt-2 font-bold">HTML CSS</h2>
-                    <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                        Lorem ipsum dolor sit amet consectetur.
-                    </p>
+                    
                     </a>
 
                     <a
@@ -68,9 +66,7 @@ function Services(){
                     
                     <h2 className="mt-2 font-bold">Bootstrap</h2>
 
-                    <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                        Lorem ipsum dolor sit amet consectetur.
-                    </p>
+                    
                     </a>
 
                     <a
@@ -91,9 +87,7 @@ function Services(){
                     </span>
 
                     <h2 className="mt-2 font-bold">Javascript</h2>
-                    <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                        Lorem ipsum dolor sit amet consectetur.
-                    </p>
+                    
                     </a>
 
                     <a
@@ -113,9 +107,7 @@ function Services(){
                         </svg>
                     </span>
                     <h2 className="mt-2 font-bold">React js</h2>
-                    <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                        Lorem ipsum dolor sit amet consectetur.
-                    </p>
+                    
                     </a>
 
                     <a
@@ -135,9 +127,7 @@ function Services(){
                     </span>
 
                     <h2 className="mt-2 font-bold">Power point</h2>
-                    <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                        Lorem ipsum dolor sit amet consectetur.
-                    </p>
+                    
                     </a>
 
                     <a
@@ -159,9 +149,7 @@ function Services(){
 
                     <h2 className="mt-2 font-bold">TailwindCss</h2>
 
-                    <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                        Lorem ipsum dolor sit amet consectetur.
-                    </p>
+                    
                     </a>
                 </div>
                 </div>
