@@ -4,9 +4,7 @@ function Apropos(){
     return(
 
         <>
-            <h2 className="text-center text-4xl mt-10 font-bold tracking-tight text-gray-900 sm:text-5xl">
-                A Propos
-            </h2>
+            
             <section className="overflow-hidden sm:grid sm:grid-cols-2 sm:items-center">
             <div className="p-8 md:p-12 lg:px-16 lg:py-24">
                 <div className="mx-auto max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
@@ -23,7 +21,7 @@ function Apropos(){
                     href="#"
                     className="inline-block rounded bg-rose-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-rose-700 focus:outline-none focus:ring focus:ring-yellow-400"
                     >
-                    Get Started Today
+                    Telecharger CV
                     </a>
                 </div>
                 </div>

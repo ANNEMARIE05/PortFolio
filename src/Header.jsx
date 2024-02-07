@@ -3,7 +3,7 @@ import React from "react";
 function Header(params) {
     return(
         <>
-            <header className="bg-white">
+            <header className="">
                 <div className="mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
                     <div className="flex h-16 items-center justify-between">
                     <div className="flex-1 md:flex md:items-center md:gap-12">
@@ -31,7 +31,7 @@ function Header(params) {
                             </li>
 
                             <li>
-                            <a className="text-rose-500 hover:text-rose-700" href="/"> Services </a>
+                            <a className="text-rose-500 hover:text-rose-700" href="/"> Competences </a>
                             </li>
 
                             <li>
