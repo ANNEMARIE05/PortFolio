@@ -184,7 +184,7 @@ function Contacts(){
             </div>
             </div>
 
-            <p className="text-xs text-gray-500">&copy; 2022. Company Name. All rights reserved.</p>
+            <p className="text-xs text-gray-500">&copy; 2024. AkamCV. Tous droit reservé.</p>
         </div>
         </footer>
         </>
