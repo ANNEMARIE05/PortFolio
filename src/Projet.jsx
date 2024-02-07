@@ -103,7 +103,7 @@ function Projets(){
                     <div className="text-center mt-5">
                         <a
                         className="inline-block rounded-full border border-rose-600 bg-rose-600 p-3 text-white hover:bg-transparent hover:text-rose-600 focus:outline-none focus:ring active:text-rose-500"
-                        href="/download"
+                        href="https://github.com/ANNEMARIE05?tab=repositories"
                         >
                         <span className="sr-only"> Download </span>
 
