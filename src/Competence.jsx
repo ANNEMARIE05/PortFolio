@@ -14,7 +14,7 @@ function Competence(){
                         className="block rounded-xl border mt-12 border-rose-100 p-4 shadow-sm hover:border-rose-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
                         href="#"
                         >
-                        <span className="inline-block rounded-lg p-5">
+                        <span className="inline-block rounded-lg bg-rose-50 p-5">
                             <svg
                             className="h-6 w-6"
                             fill="none"
@@ -26,7 +26,7 @@ function Competence(){
 
                             </svg>
                         </span>
-                        <span className="inline-block ml-10 rounded-lg p-5">
+                        <span className="inline-block ml-10 rounded-lg bg-rose-50 p-5">
                             <svg
                             className="h-6 w-6"
                             fill="none"
@@ -37,18 +37,18 @@ function Competence(){
                             <path d="M 3 2 L 5 20 L 11.992188 22 L 19 20 L 21 2 Z M 16.726563 10.347656 L 16.34375 16.589844 L 12.027344 18 L 7.710938 16.589844 L 7.546875 13.605469 L 9.734375 13.605469 L 9.789063 14.960938 L 12.027344 15.722656 L 14.269531 14.960938 L 14.433594 12.519531 L 9.625 12.519531 L 9.515625 10.347656 L 14.539063 10.347656 L 14.703125 8.175781 L 7.164063 8.175781 L 7 6.007813 L 17 6.007813 Z"></path>
 
                             </svg>
-                        </span>
+                        </span> 
 
-                        <h2 className="mt-2 font-bold">HTML</h2>
+                        <h2 className="mt-2 font-bold text-rose-700">HTML</h2>
 
-                        <h2 className="mt-2 font-bold">CSS</h2>
+                        <h2 className="mt-2 font-bold text-rose-700">CSS</h2>
                         </a>
 
                         <a
                         className="block rounded-xl border mt-12 border-rose-100 p-4 shadow-sm hover:border-rose-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
                         href="#"
                         >
-                        <span className="inline-block rounded-lg p-5">
+                        <span className="inline-block rounded-lg bg-rose-50 p-5">
                             <svg
                             className="h-6 w-6"
                             fill="none"
@@ -60,7 +60,7 @@ function Competence(){
 
                             </svg>
                         </span>
-                        <span className="inline-block rounded-lg ml-10 p-5">
+                        <span className="inline-block rounded-lg bg-rose-50  ml-10 p-5">
                             <svg
                             className="h-6 w-6"
                             fill="none"
@@ -71,18 +71,18 @@ function Competence(){
                             <path d="M23.395 7.081c-.488-.207-1.053-.002-1.29.472-.224.448-.523.723-.914.838-.612.183-1.343-.052-1.685-.253-.451-.265-.974-.667-1.527-1.092C16.214 5.688 14.018 4 11 4 8.586 4 7.346 5.239 5.293 7.293 4.902 7.684 4.899 8.32 5.29 8.71 5.67 9.092 6.28 9.104 6.672 8.74c.01-.009.02-.019.03-.028.552-.426 4.03-.012 5.55 1.196C14.511 11.703 16.142 13 18 13c2.659 0 4.879-1.741 5.94-4.658C24.121 7.844 23.882 7.291 23.395 7.081zM18.395 14.081c-.488-.207-1.053-.002-1.29.472-.224.448-.523.723-.914.838-.612.18-1.343-.052-1.685-.253-.451-.265-.974-.667-1.527-1.092C11.214 12.688 9.018 11 6 11c-2.414 0-3.654 1.239-5.707 3.293-.391.391-.394 1.027-.003 1.417.38.382.991.395 1.383.03.01-.009.02-.019.03-.028.551-.426 4.031-.012 5.55 1.196C9.511 18.703 11.142 20 13 20c2.659 0 4.879-1.741 5.94-4.658C19.121 14.844 18.882 14.291 18.395 14.081z"></path>
 
                             </svg>
-                        </span>
+                        </span> 
 
-                        <h2 className="mt-2 font-bold">Bootstrap</h2>
+                        <h2 className="mt-2 font-bold text-rose-700">Bootstrap</h2>
 
-                        <h2 className="mt-2 font-bold">TailwindCss</h2>
+                        <h2 className="mt-2 font-bold text-rose-700">TailwindCss</h2>
                         </a>
 
                         <a
                         className="block rounded-xl border mt-12 border-rose-100 p-4 shadow-sm hover:border-rose-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
                         href="#"
                         >
-                        <span className="inline-block rounded-lg p-5">
+                        <span className="inline-block rounded-lg bg-rose-50 p-5">
                             <svg
                             className="h-6 w-6"
                             fill="none"
@@ -94,7 +94,7 @@ function Competence(){
 
                             </svg>
                         </span>
-                        <span className="inline-block rounded-lg ml-5 p-5">
+                        <span className="inline-block rounded-lg bg-rose-50 ml-5 p-5">
                             <svg
                             className="h-6 w-6"
                             fill="none"
@@ -104,12 +104,12 @@ function Competence(){
                             >
                             <path d="M 3 6 L 16 28 L 29 6 L 19 6 L 16 11.300781 L 13 6 L 3 6 z M 6.5 8 L 10.271484 8 L 16 18 L 21.728516 8 L 25.5 8 L 16 24.099609 L 6.5 8 z"></path>
                            
-                            </svg>
-                        </span>
+                            </svg >
+                        </span> 
 
-                        <h2 className="mt-2 font-bold">ReactJs</h2>
+                        <h2 className="mt-2 font-bold text-rose-700">ReactJs</h2>
 
-                        <h2 className="mt-2 font-bold">VueJs</h2>
+                        <h2 className="mt-2 font-bold text-rose-700">VueJs</h2>
 
                         </a>
 
@@ -117,7 +117,7 @@ function Competence(){
                         className="block rounded-xl mt-12 border border-rose-100 p-4 shadow-sm hover:border-rose-200 hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
                         href="#"
                         >
-                        <span className="inline-block rounded-lg p-5">
+                        <span className="inline-block rounded-lg bg-rose-50 p-5">
                             <svg
                             className="h-6 w-6"
                             fill="none"
@@ -129,7 +129,7 @@ function Competence(){
 
                             </svg>
                         </span>
-                        <span className="inline-block rounded-lg ml-5 p-5">
+                        <span className="inline-block rounded-lg bg-rose-50  ml-5 p-5">
                             <svg
                             className="h-6 w-6"
                             fill="none"
@@ -140,11 +140,11 @@ function Competence(){
                                 <path d="M 12 3 L 2 5 L 2 19 L 12 21 L 12 3 z M 14 5 L 14 7 L 20 7 L 20 17 L 14 17 L 14 19 L 22 19 L 22 5 L 14 5 z M 3.9882812 8 L 7.0605469 8 C 7.9575469 8 8.6692656 8.2322656 9.1972656 8.6972656 C 9.7252656 9.1632656 9.9882812 9.780875 9.9882812 10.546875 C 9.9882812 11.331875 9.7318438 11.941906 9.2148438 12.378906 C 8.6988437 12.815906 7.9749219 13.033203 7.0449219 13.033203 L 5.5 13.033203 L 5.5 16 L 3.9882812 16 L 3.9882812 8 z M 16 8 C 14.895 8 14 8.895 14 10 C 14 11.105 14.895 12 16 12 C 17.105 12 18 11.105 18 10 L 16 10 L 16 8 z M 5.5 9.1875 L 5.5 11.736328 L 6.96875 11.736328 C 7.43575 11.736328 7.7911094 11.629969 8.0371094 11.417969 C 8.2831094 11.205969 8.40625 10.899047 8.40625 10.498047 C 8.40625 10.103047 8.28125 9.7887344 8.03125 9.5527344 C 7.78325 9.3157344 7.4418594 9.1935 7.0058594 9.1875 L 5.5 9.1875 z M 14 13 L 14 15 L 18 15 L 18 13 L 14 13 z"></path>
 
                             </svg>
-                        </span>
+                        </span> 
 
-                        <h2 className="mt-2 font-bold">Javascript</h2>
+                        <h2 className="mt-2 font-bold text-rose-700">Javascript</h2>
 
-                        <h2 className="mt-2 font-bold">PowerPoint</h2>
+                        <h2 className="mt-2 font-bold text-rose-700">PowerPoint</h2>
 
                         </a>
                     </div>
