@@ -15,23 +15,19 @@ function Projets(){
                             <article className="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg">
                             <img
                                 alt="Office"
-                                src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+                                src="https://images.unsplash.com/photo-1522199670076-2852f80289c3?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                 className="absolute inset-0 h-full w-full object-cover"
                             />
 
                             <div className="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64">
                                 <div className="p-4 sm:p-6">
-                                <time datetime="2022-10-10" className="block text-xs text-white/90"> 10th Oct 2022 </time>
 
-                                <a href="#">
-                                    <h3 className="mt-0.5 text-lg text-white">How to position your furniture for positivity</h3>
+                                <a href="https://todoapp-2tfe.onrender.com/">
+                                    <h3 className="mt-0.5 text-lg text-white">TodoApp</h3>
                                 </a>
 
                                 <p className="mt-2 line-clamp-3 text-sm/relaxed text-white/95">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
-                                    pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-                                    quidem, mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius
-                                    atque dignissimos. Molestias explicabo corporis voluptatem?
+                                 TodoApp est une application qui vous permettras de lister vos tâches, de la journée, de la semaine etc... Soyez les bienvenue et profiter au maximum de nos services
                                 </p>
                                 </div>
                             </div>
@@ -44,23 +40,25 @@ function Projets(){
                             <article className="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg">
                             <img
                                 alt="Office"
-                                src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+                                src="https://plus.unsplash.com/premium_photo-1678344165196-261064eb31e7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                 className="absolute inset-0 h-full w-full object-cover"
                             />
 
                             <div className="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64">
                                 <div className="p-4 sm:p-6">
-                                <time datetime="2022-10-10" className="block text-xs text-white/90"> 10th Oct 2022 </time>
 
-                                <a href="#">
-                                    <h3 className="mt-0.5 text-lg text-white">How to position your furniture for positivity</h3>
+                                <a href="https://annemarie05.github.io/AgriKAAM/">
+                                    <h3 className="mt-0.5 text-lg text-white">AgriKAAM</h3>
                                 </a>
 
                                 <p className="mt-2 line-clamp-3 text-sm/relaxed text-white/95">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
-                                    pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-                                    quidem, mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius
-                                    atque dignissimos. Molestias explicabo corporis voluptatem?
+                                AgriKAAM est une societe qui recrute
+                                des travailleurs pour la gestion des
+                                champs. Née en 2023 notre but est de
+                                pouvoir gérer facilement un ensemble
+                                de travailleurs et de tache ainsi que
+                                des sommes a payer au travailleur plus
+                                facilement a travers notre application
                                 </p>
                                 </div>
                             </div>
@@ -73,23 +71,19 @@ function Projets(){
                             <article className="relative overflow-hidden rounded-lg shadow transition hover:shadow-lg">
                             <img
                                 alt="Office"
-                                src="https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80"
+                                src="https://images.unsplash.com/photo-1503220317375-aaad61436b1b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                 className="absolute inset-0 h-full w-full object-cover"
                             />
 
                             <div className="relative bg-gradient-to-t from-gray-900/50 to-gray-900/25 pt-32 sm:pt-48 lg:pt-64">
                                 <div className="p-4 sm:p-6">
-                                <time datetime="2022-10-10" className="block text-xs text-white/90"> 10th Oct 2022 </time>
 
-                                <a href="#">
-                                    <h3 className="mt-0.5 text-lg text-white">How to position your furniture for positivity</h3>
+                                <a href="https://frontend-hoqz.onrender.com">
+                                    <h3 className="mt-0.5 text-lg text-white">Mondi</h3>
                                 </a>
 
                                 <p className="mt-2 line-clamp-3 text-sm/relaxed text-white/95">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae dolores, possimus
-                                    pariatur animi temporibus nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-                                    quidem, mollitia itaque minus soluta, voluptates neque explicabo tempora nisi culpa eius
-                                    atque dignissimos. Molestias explicabo corporis voluptatem?
+                                Mondi est un application permettant aux amoureux du tourisme de se divertir avec l'aide de nos guides touristique
                                 </p>
                                 </div>
                                 
